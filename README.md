@@ -106,13 +106,13 @@ Because of the way nano-emacs is set up, you need to set these variables *before
 * **[nano-base-colors.el](./nano-base-colors.el)**
 
   > This module defines the fundamental colors of nano theme.
-    If your Emacs has a theme or color-scheme, make sure its loaded
+    If your Emacs has a theme or color-scheme, make sure it's loaded
     before you load nano-faces so that its colors are used by nano.
 
 * **[nano-faces.el](./nano-faces.el)**
 
   > This module defines the fundamental faces of nano theme.
-    If your Emacs has a theme or color-scheme, make sure its loaded
+    If your Emacs has a theme or color-scheme, make sure it's loaded
     before you load nano-faces so that its colors are used by nano.
 
 
